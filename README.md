@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Lucas</h1>
 <h3 align="center">Estudando Front End</h3>
 
-- 🌱 Estudando **HTML / CSS**
+- 🌱 Estudando **UI Design**
 
 <div align="left">
   <a href="https://github.com/teixeiralc">

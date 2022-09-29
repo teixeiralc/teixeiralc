@@ -2,6 +2,7 @@
 <h3 align="center">Estudando Front End</h3>
 
 - 🌱 Estudando **JavaScript**
+- 📚 Análise e Desenvolvimento de Sistemas
 
 <div align="left">
   <a href="https://github.com/teixeiralc">

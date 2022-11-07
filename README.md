@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Lucas</h1>
 <h3 align="center">Estudando Front End</h3>
 
-- 🌱 Estudando **JavaScript**
+- 🌱 Estudando **React**
 - 📚 Análise e Desenvolvimento de Sistemas
 
 <div align="left">

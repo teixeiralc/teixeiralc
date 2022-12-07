@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Lucas</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 Estudando **React**
-- 📚 Análise e Desenvolvimento de Sistemas
+- 🌱 Studying **React**
+- 📚 Systems Analysis and Development
 
 <div align="left">
   <a href="https://github.com/teixeiralc">

@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Lucas</h1>
 <h3 align="center">Front-End Developer</h3>
 
-- 🌱 Studying **TypeScript**
+- 🌱 Studying **Next.js**
 - 📚 Systems Analysis and Development
 
 <div align="left">
